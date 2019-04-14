@@ -15,7 +15,7 @@ ActiveRecord::Base.establish_connection(
   :database => "db/artists.sqlite"
 )
 
-<<<<<<< HEAD
+#<<<<<<< HEAD
 #sql = <<- SQL
   #CREATE TABLE IF NOT EXISTS artists (
   #id INTEGER PRIMARY KEY,

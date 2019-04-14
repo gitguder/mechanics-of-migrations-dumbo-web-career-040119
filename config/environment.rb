@@ -41,6 +41,6 @@ sql = <<-SQL
 SQL
  
 ActiveRecord::Base.connection.execute(sql)
->>>>>>> 328ee4289249d525e6e552e8ff08ba44d26a0596
+#>>>>>>> 328ee4289249d525e6e552e8ff08ba44d26a0596
 
 require_relative "../artist.rb"

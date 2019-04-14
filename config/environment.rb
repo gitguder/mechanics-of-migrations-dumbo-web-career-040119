@@ -27,7 +27,7 @@ ActiveRecord::Base.establish_connection(
 #SQL
 
 #ActiveRecord::Base.connection.execute(sql)
-=======
+#=======
  using SQL:
 
 sql = <<-SQL
